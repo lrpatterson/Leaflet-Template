@@ -1,0 +1,21 @@
+{
+  "name": "leaflet-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "esri-leaflet": "2.5.1",
+    "esri-leaflet-geocoder": "2.3.3",
+    "leaflet": "1.7.1",
+    "leaflet-search": "2.9.8"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
